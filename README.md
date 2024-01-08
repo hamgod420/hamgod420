@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on AYJ Protein's website and AYJ Clubs website
+🔭 I’m currently working on a traffic simulation using ArcGIS and C++
 
-🌱 I’m currently learning Java, JavaScript and C++
-
-🤔 I’m looking for help with webdesign
+🌱 I’m currently learning OpenGL and ArcGIS
 
 ⚡ Fun fact: I throw javelin
 
