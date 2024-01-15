@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a traffic simulation using ArcGIS and C++
 
-🌱 I’m currently learning OpenGL and ArcGIS
+🌱 I’m currently learning Unreal Engine, OpenGL and ArcGIS
 
 ⚡ Fun fact: I throw javelin
 
