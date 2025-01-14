@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a traffic simulation using ArcGIS and C++
-
-🌱 I’m currently learning Unreal Engine, OpenGL and ArcGIS
-
 ⚡ Fun fact: I throw javelin
 
 <a href="https://github.com/hamgod420/hamgod420">
